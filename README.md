@@ -9,7 +9,7 @@ My name is James McDermott. Currently making useful things like [Odin](https://g
 <br>
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=theycallmemac&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=theycallmemac">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theycallmemac" />
   </a>
 </p>
