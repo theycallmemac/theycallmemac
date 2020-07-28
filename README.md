@@ -1,4 +1,4 @@
-### Howdy 🤠
+<h2 align="center">Howdy 🤠!</h2>
 
 My name is James McDermott. Currently making useful things like [Odin](https://github.com/theycallmemac/odin) and [Stream Local](https://github.com/stream-local). I like to use Go, Python and Docker. My pronouns are He/Him.
 
